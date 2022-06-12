@@ -1,0 +1,2 @@
+CREATE TABLE firm(id INTEGER NOT NULL AUTO_INCREMENT,
+                name TEXT NOT NULL);
